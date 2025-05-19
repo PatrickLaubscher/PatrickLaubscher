@@ -1,6 +1,21 @@
 # 👋 Hello, I'm Patrick Laubscher
 
-🚀 Passionate full-stack developer based in **Lyon, France**, with a strong background in **PHP**, **Symfony**, **TypeScript**, and **Angular**. I enjoy building intuitive applications and solving real-world problems through clean code and robust architecture.
+🇫🇷 Application Developer based in **Lyon, France**, founder of [CrusaderTech](https://www.crusadertech-pl.com). 
+---
+
+## 📚 Currently Learning
+
+🚀 I'm currently enrolled in a professional training program focused on:
+
+- **Java Spring Boot** for back-end development
+- **Angular** for modern front-end architecture
+
+This training complements my existing skills and reinforces my ability to build full-stack applications with **TypeScript**, **Java**, and **Angular**.
+
+## 🧠 About Me
+
+My professional background includes several years in international trade, personal development and coaching.
+These experiences enrich my profile by providing valuable transferable skills such as client relationship management, communication, and teamwork.
 
 ---
 
@@ -17,31 +32,34 @@
 
 ---
 
-## 📌 Highlighted Projects
+## 🚀 Featured Projects
 
 ### 🔹 [meteo-app](https://github.com/PatrickLaubscher/meteo-app)
-A weather forecasting application built with Open-Meteo API. Clean UI, real-time updates, and responsive design.
+Real-time weather application using Open-Meteo API. Displays current weather and forecasts with a sleek, responsive interface.
 
 ### 🔹 [hexadice](https://github.com/PatrickLaubscher/hexadice)
-An e-commerce platform for board games developed in object-oriented PHP with advanced cart and product features.
+A custom-built e-commerce site for board games coded entirely in object-oriented PHP, featuring product catalogs, carts, and secure order handling.
+
+### 🔹 CrusaderTech Website
+My professional portfolio showcasing projects, expertise, and services.
+🌐 [crusadertech-pl.com](https://www.crusadertech-pl.com)
 
 ---
 
 ## 📈 GitHub Stats
 
-![Patrick's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PatrickLaubscher&show_icons=true&theme=github_dark&hide=prs&count_private=true)
+![Patrick's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PatrickLaubscher&show_icons=true&theme=github_dark&count_private=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PatrickLaubscher&layout=compact&theme=github_dark)
 
 ---
 
-## ✉️ Contact Me
+## 📬 Find me here 
 
-- 🌍 Website: [www.crusadertech-pl.com](https://www.crusadertech-pl.com)
-- 💼 LinkedIn: [patrick-laubscher](https://www.linkedin.com/in/patrick-laubscher/)
-- 📫 Email: [youremail@example.com] *(optional)*
+- 🌐 Website: [www.crusadertech-pl.com](https://www.crusadertech-pl.com)
+- 💼 LinkedIn: [linkedin.com/in/patrick-laubscher](https://www.linkedin.com/in/patrick-laubscher/)
 
 ---
 
-## 🔍 Fun Fact
+> "In the confrontation between the stream and the rock, the stream always wins—not through strength, but through perseverance."
+H. Jackson Browne
 
-> I love building tools that automate repetitive tasks. My goal is to write less, do more — through elegant and scalable code.
